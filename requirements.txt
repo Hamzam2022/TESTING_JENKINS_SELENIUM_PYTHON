@@ -1,0 +1,8 @@
+pip~=22.0.4
+attrs~=21.4.0
+argparse~=1.4.0
+cryptography~=37.0.2
+py~=1.11.0
+setuptools~=58.1.0
+pytest~=7.1.2
+selenium~=4.2.0
